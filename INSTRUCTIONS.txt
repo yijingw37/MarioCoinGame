@@ -1,0 +1,16 @@
+Important!
+When running this assignment, be sure to set the Aspect Ratio pulldown in the editor to “Full HD”. The dropdown is at the top of the Game/Scene window in the editor, right to the left of the Scale slider.
+
+You can move Mario to the left and right using left and right arrow keys on the keyboard, and make him jump using spacebar on the keyboard. You can also make Mario fire a bullet using F key on the keyboard, but you can only fire when Mario is in the air. The bullet is fired from the right side of Mario, and can't be fired from the left side of Mario.
+
+You get one point by eating a coin. The score is displayed at the top left corner.
+
+You get one bullet by eating a coin. If your bullet collide with an enemy, that enemy dies and disappears from the screen. You bullet disappears as soon as it touches the ground or an enemy. 
+
+You win once you finish eating all the coins on the screen. You don't have to kill all enemies to win.  
+You lose immediately if you collide with an enemy. 
+A text on the top left corner as well as audio will indicate whether you have won or lost.
+
+Your enemy moves around. Some move fast. Some move slow. 
+
+Note: This isn't a standard Mario game, so don't try to jump on an enemy's head to kill it. You lose the game if your Mario collide with the enemy, no matter how they collide. 

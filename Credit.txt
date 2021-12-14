@@ -1,0 +1,13 @@
+1.Mario avatar comes from
+https://fantendo.fandom.com/wiki/Super_Smash_Bros._Rebels_(Avatar_Customization)?file=A260_1446212347.png
+2. Goomba sprite comes from https://www.zeldadungeon.net/wiki/File:Goomba_-_LA19_render.png
+3. The coin sprite comes from https://www.pinclipart.com/downpngs/imoRbw_mario-brothers-coin-svg-files-super-mario-star/
+4. The bullet sprite comes from Ex3 Dodgeball
+5. The firing bullet sound comes from 
+https://www.dreamstime.com/stock-music-sound-effect/ding.html Kalimba Ding 06
+6. The win sound comes from
+https://mixkit.co/free-sound-effects/win/ Animated small group applause
+7. The lose sound comes from 
+https://mixkit.co/free-sound-effects/game-over/ Sad game over trombone
+8. The sound when Mario kills an enemy comes from https://mixkit.co/free-sound-effects/monster/?page=2
+9. The coin sound comes from https://mixkit.co/free-sound-effects/coin/
